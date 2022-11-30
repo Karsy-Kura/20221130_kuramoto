@@ -390,6 +390,10 @@ div.service_content_text {
   width: 50%;
 }
 
+.other_info_card img {
+  width: 100%;
+}
+
 .other_info_card a {
   position: absolute;
   top:45%;
